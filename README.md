@@ -1,4 +1,4 @@
-# Challenge #2 - Anagram Detector
+# Challenge #3 - Anagram Detector
 
 ## Overview
 > Write a function in your favorite programming language that will accept any two strings as parameters and return True if they are anagrams and False if they are not.
